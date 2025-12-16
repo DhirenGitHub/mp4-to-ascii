@@ -14,17 +14,11 @@ A Python-based ASCII video player inspired by the legendary "Bad Apple!!" music 
 ## Demo
 
 Transform this:
-```
-[Regular video] 🎥
-```
+<img width="1502" height="1127" alt="image" src="https://github.com/user-attachments/assets/c4ee9e77-6242-4579-8466-437515d344b5" />
 
 Into this:
-```
-@@@@@@@@@@@@%%%%#####*****
-@@@@@@@@%%%%####****+++===
-@@@@%%%%####***+++==---:::
-@@%%%%###***++==--:::....
-```
+<img width="662" height="497" alt="image" src="https://github.com/user-attachments/assets/70da3e5f-1a38-4943-9701-3cac5245b522" />
+
 
 ## Requirements
 
@@ -171,7 +165,7 @@ bad-apple/
 
 ## Credits
 
-Inspired by the "Bad Apple!!" Touhou music video and the countless ASCII art renditions that followed. This project is a tribute to that legendary meme.
+Inspired by the "Bad Apple!!" Touhou music video and the countless ASCII art renditions that followed.
 
 ## License
 
@@ -181,6 +175,3 @@ Free to use, modify, and share. Have fun!
 
 Feel free to fork, improve, and share your own versions. Suggestions and improvements are welcome!
 
----
-
-**Made with ❤️ and way too much terminal time**
