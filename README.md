@@ -17,6 +17,7 @@ Transform this:
 <img width="1502" height="1127" alt="image" src="https://github.com/user-attachments/assets/c4ee9e77-6242-4579-8466-437515d344b5" />
 
 Into this:
+
 <img width="662" height="497" alt="image" src="https://github.com/user-attachments/assets/70da3e5f-1a38-4943-9701-3cac5245b522" />
 
 
